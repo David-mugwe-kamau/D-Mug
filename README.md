@@ -23,7 +23,7 @@ A modern, responsive portfolio website showcasing web development skills and pro
 - **Contact Buttons**: 
   - Email: davidmugwekamau@gmail.com
   - WhatsApp: +254704629818
-  - Phone: +2547046298818
+  - Phone: +254704629818
 - **Project Link**: Direct link to JazzMan Housecalls project
 
 ## 📁 File Structure
@@ -128,30 +128,40 @@ background-image: url('your-image-url');
 
 ## 🚀 Deployment
 
-### Option 1: GitHub Pages (Free)
+### ✅ Currently Deployed On: Render.com
+
+**Live URL**: https://d-mug.onrender.com  
+**GitHub Repository**: https://github.com/David-mugwe-kamau/D-Mug  
+**Status**: ✅ Live and Active
+
+### Deployment Configuration
+- **Platform**: Render.com (Static Site)
+- **Repository**: Connected to GitHub
+- **Branch**: `main`
+- **Build Command**: Empty (no build process)
+- **Publish Directory**: `.` (root directory)
+- **Auto-Deploy**: Enabled
+
+### Other Deployment Options
+
+#### Option 1: GitHub Pages (Free)
 1. Create a GitHub repository
 2. Upload all files
 3. Go to Settings → Pages
 4. Select main branch
 5. Your site will be live at `https://yourusername.github.io/repository-name`
 
-### Option 2: Netlify (Free)
+#### Option 2: Netlify (Free)
 1. Go to [netlify.com](https://netlify.com)
 2. Drag and drop your project folder
 3. Your site is live instantly!
 
-### Option 3: Vercel (Free)
+#### Option 3: Vercel (Free)
 1. Go to [vercel.com](https://vercel.com)
 2. Import your GitHub repository or upload files
 3. Deploy with one click
 
-### Option 4: Render (Free)
-1. Go to [render.com](https://render.com)
-2. Create a new Static Site
-3. Connect your repository or upload files
-4. Deploy
-
-### Option 5: Any Web Hosting
+#### Option 4: Any Web Hosting
 Upload all files via FTP to your hosting provider's public_html or www directory.
 
 ## 📧 Contact
